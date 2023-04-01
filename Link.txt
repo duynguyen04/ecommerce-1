@@ -1,2 +1,5 @@
-https://client-asm3.web.app/
-https://admin-asm3.web.app/
+https://client-ecommerce-acc49.web.app/
+https://admin-ecommerce-b8401.web.app/
+
+admin@gmail.com admin
+client@gmail.com client
